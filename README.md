@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8252296.svg)](https://doi.org/10.5281/zenodo.8252296)
+
 # GR21_genome_mining
 R scripts used to create figures for manuscript **The Undiscovered Biosynthetic Potential of the Greenland Ice Sheet Microbiome** (in prep, by Ate H. Jaarsma)
 
